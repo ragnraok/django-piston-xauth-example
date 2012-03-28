@@ -1,0 +1,618 @@
+INFO 2012-03-27 00:12:00,993 oauth 9638 -1222571152 version=1.0
+INFO 2012-03-27 00:12:57,580 oauth 9664 -1222239376 version=1.0
+INFO 2012-03-27 00:12:57,581 oauth 9664 -1222239376 consumer_key=utf5ZCp6L8ZYY3ukkq2bRxjjwNsmm4nG
+INFO 2012-03-27 00:13:12,065 oauth 9664 -1222239376 version=1.0
+INFO 2012-03-27 00:13:12,066 oauth 9664 -1222239376 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:13:12,070 oauth 9664 -1222239376 version=1.0
+INFO 2012-03-27 00:13:49,454 oauth 9721 -1222628496 version=1.0
+INFO 2012-03-27 00:13:49,454 oauth 9721 -1222628496 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:14:41,333 oauth 9781 -1222169744 version=1.0
+INFO 2012-03-27 00:14:41,334 oauth 9781 -1222169744 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:14:41,339 oauth 9781 -1222169744 consumer=tom
+INFO 2012-03-27 00:14:41,339 oauth 9781 -1222169744 version=1.0
+INFO 2012-03-27 00:15:34,501 oauth 9812 -1222378640 version=1.0
+INFO 2012-03-27 00:15:34,502 oauth 9812 -1222378640 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:15:34,507 oauth 9812 -1222378640 consumer=tom
+INFO 2012-03-27 00:15:34,507 oauth 9812 -1222378640 version=1.0
+INFO 2012-03-27 00:15:56,226 oauth 9842 -1222157456 version=1.0
+INFO 2012-03-27 00:15:56,227 oauth 9842 -1222157456 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:15:56,232 oauth 9842 -1222157456 consumer=tom
+INFO 2012-03-27 00:15:56,233 oauth 9842 -1222157456 version=1.0
+INFO 2012-03-27 00:17:24,582 oauth 9865 -1222907024 version=1.0
+INFO 2012-03-27 00:17:24,583 oauth 9865 -1222907024 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:17:24,589 oauth 9865 -1222907024 consumer=tom
+INFO 2012-03-27 00:17:24,590 oauth 9865 -1222907024 version=1.0
+INFO 2012-03-27 00:17:54,225 oauth 9913 -1222067344 version=1.0
+INFO 2012-03-27 00:17:54,226 oauth 9913 -1222067344 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:17:54,231 oauth 9913 -1222067344 consumer=tom
+INFO 2012-03-27 00:17:54,232 oauth 9913 -1222067344 version=1.0
+INFO 2012-03-27 00:18:37,996 oauth 9944 -1222866064 version=1.0
+INFO 2012-03-27 00:18:38,002 oauth 9944 -1222866064 version=1.0
+INFO 2012-03-27 00:19:40,835 oauth 9978 -1222677648 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:19:40,841 oauth 9978 -1222677648 consumer=tom
+INFO 2012-03-27 00:19:40,841 oauth 9978 -1222677648 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:19:40,844 oauth 9978 -1222677648 consumer=tom
+INFO 2012-03-27 00:19:41,362 oauth 9978 -1222677648 signature_method=HMAC-SHA1
+INFO 2012-03-27 00:21:08,740 oauth 10011 -1222186128 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:21:08,746 oauth 10011 -1222186128 consumer=tom
+INFO 2012-03-27 00:21:08,747 oauth 10011 -1222186128 verifier=
+INFO 2012-03-27 00:21:08,747 oauth 10011 -1222186128 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:21:08,749 oauth 10011 -1222186128 consumer=tom
+INFO 2012-03-27 00:21:09,185 oauth 10011 -1222186128 signature_method=HMAC-SHA1
+INFO 2012-03-27 00:23:04,388 oauth 10110 -1222583440 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:23:04,394 oauth 10110 -1222583440 consumer=tom
+INFO 2012-03-27 00:23:04,394 oauth 10110 -1222583440 verifier=
+INFO 2012-03-27 00:23:04,395 oauth 10110 -1222583440 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:23:04,397 oauth 10110 -1222583440 consumer=tom
+INFO 2012-03-27 00:25:29,708 oauth 10110 -1222583440 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:25:29,711 oauth 10110 -1222583440 consumer=tom
+INFO 2012-03-27 00:25:29,712 oauth 10110 -1222583440 verifier=
+INFO 2012-03-27 00:25:29,712 oauth 10110 -1222583440 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:25:29,714 oauth 10110 -1222583440 consumer=tom
+INFO 2012-03-27 00:25:52,535 oauth 10172 -1223042192 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:25:52,543 oauth 10172 -1223042192 consumer=tom
+INFO 2012-03-27 00:25:52,544 oauth 10172 -1223042192 verifier=
+INFO 2012-03-27 00:25:52,544 oauth 10172 -1223042192 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:25:52,546 oauth 10172 -1223042192 consumer=tom
+INFO 2012-03-27 00:26:17,498 oauth 10195 -1222988944 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:26:17,503 oauth 10195 -1222988944 consumer=tom
+INFO 2012-03-27 00:26:17,504 oauth 10195 -1222988944 verifier=
+INFO 2012-03-27 00:26:17,504 oauth 10195 -1222988944 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:26:17,506 oauth 10195 -1222988944 consumer=tom
+INFO 2012-03-27 00:26:35,094 oauth 10221 -1222993040 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:26:35,099 oauth 10221 -1222993040 consumer=tom
+INFO 2012-03-27 00:26:35,100 oauth 10221 -1222993040 verifier=
+INFO 2012-03-27 00:26:35,100 oauth 10221 -1222993040 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:26:35,102 oauth 10221 -1222993040 consumer=tom
+INFO 2012-03-27 00:28:33,895 oauth 10324 -1222435984 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:28:33,902 oauth 10324 -1222435984 consumer=tom
+INFO 2012-03-27 00:28:33,902 oauth 10324 -1222435984 verifier=
+INFO 2012-03-27 00:28:33,903 oauth 10324 -1222435984 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:28:33,905 oauth 10324 -1222435984 consumer=tom
+INFO 2012-03-27 00:29:06,657 oauth 10350 -1222603920 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:29:06,663 oauth 10350 -1222603920 consumer=tom
+INFO 2012-03-27 00:29:06,663 oauth 10350 -1222603920 verifier=
+INFO 2012-03-27 00:29:06,664 oauth 10350 -1222603920 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:29:06,666 oauth 10350 -1222603920 consumer=tom
+INFO 2012-03-27 00:30:17,930 oauth 10403 -1222530192 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:30:17,935 oauth 10403 -1222530192 consumer=tom
+INFO 2012-03-27 00:30:17,935 oauth 10403 -1222530192 verifier=
+INFO 2012-03-27 00:30:17,936 oauth 10403 -1222530192 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:30:17,938 oauth 10403 -1222530192 consumer=tom
+INFO 2012-03-27 00:31:58,365 oauth 10435 -1222354064 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:31:58,372 oauth 10435 -1222354064 consumer=tom
+INFO 2012-03-27 00:31:58,373 oauth 10435 -1222354064 verifier=
+INFO 2012-03-27 00:31:58,373 oauth 10435 -1222354064 except OAuthError when _get_token
+INFO 2012-03-27 00:31:58,374 oauth 10435 -1222354064 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:31:58,377 oauth 10435 -1222354064 consumer=tom
+INFO 2012-03-27 00:33:11,080 oauth 10465 -1222124688 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:33:11,086 oauth 10465 -1222124688 consumer=tom
+INFO 2012-03-27 00:33:11,086 oauth 10465 -1222124688 verifier=
+INFO 2012-03-27 00:33:11,087 oauth 10465 -1222124688 in _get_token else
+INFO 2012-03-27 00:33:11,087 oauth 10465 -1222124688 except OAuthError when _get_token
+INFO 2012-03-27 00:33:11,087 oauth 10465 -1222124688 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:33:11,090 oauth 10465 -1222124688 consumer=tom
+INFO 2012-03-27 00:33:48,736 oauth 10494 -1222440080 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:33:48,743 oauth 10494 -1222440080 consumer=tom
+INFO 2012-03-27 00:33:48,743 oauth 10494 -1222440080 verifier=
+INFO 2012-03-27 00:33:48,744 oauth 10494 -1222440080 in _get_token else
+INFO 2012-03-27 00:33:48,744 oauth 10494 -1222440080 except OAuthError when _get_token
+INFO 2012-03-27 00:33:48,745 oauth 10494 -1222440080 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:33:48,748 oauth 10494 -1222440080 consumer=tom
+INFO 2012-03-27 00:33:48,748 oauth 10494 -1222440080 in _get_token, consumer=tom
+INFO 2012-03-27 00:37:37,994 oauth 10690 -1222272144 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:37:38,000 oauth 10690 -1222272144 consumer=tom
+INFO 2012-03-27 00:37:38,000 oauth 10690 -1222272144 verifier=
+INFO 2012-03-27 00:37:38,000 oauth 10690 -1222272144 in _get_token else
+INFO 2012-03-27 00:37:38,001 oauth 10690 -1222272144 except OAuthError when _get_token
+INFO 2012-03-27 00:37:38,001 oauth 10690 -1222272144 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:37:38,003 oauth 10690 -1222272144 consumer=tom
+INFO 2012-03-27 00:37:38,003 oauth 10690 -1222272144 in _get_token, consumer=tom
+INFO 2012-03-27 00:39:05,452 oauth 10714 -1222857872 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:39:05,458 oauth 10714 -1222857872 consumer=tom
+INFO 2012-03-27 00:39:05,458 oauth 10714 -1222857872 verifier=
+INFO 2012-03-27 00:39:05,459 oauth 10714 -1222857872 in _get_token else
+INFO 2012-03-27 00:44:02,608 authentication 10740 -1222427792 path=piston.store.DataStore
+INFO 2012-03-27 00:44:02,637 oauth 10740 -1222427792 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:44:02,642 oauth 10740 -1222427792 consumer=tom
+INFO 2012-03-27 00:44:02,642 oauth 10740 -1222427792 verifier=
+INFO 2012-03-27 00:44:02,643 oauth 10740 -1222427792 in _get_token else
+INFO 2012-03-27 00:44:02,643 oauth 10740 -1222427792 except OAuthError when _get_token
+INFO 2012-03-27 00:44:02,643 oauth 10740 -1222427792 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:44:02,646 oauth 10740 -1222427792 consumer=tom
+INFO 2012-03-27 00:44:02,646 oauth 10740 -1222427792 in _get_token, consumer=tom
+INFO 2012-03-27 00:45:36,792 authentication 10901 -1222956176 path=piston.store.DataStore
+INFO 2012-03-27 00:45:36,816 authentication 10901 -1222956176 request method=POST
+INFO 2012-03-27 00:45:36,817 oauth 10901 -1222956176 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:45:36,823 oauth 10901 -1222956176 consumer=tom
+INFO 2012-03-27 00:45:36,823 oauth 10901 -1222956176 verifier=
+INFO 2012-03-27 00:45:36,823 oauth 10901 -1222956176 in _get_token else
+INFO 2012-03-27 00:45:36,824 oauth 10901 -1222956176 except OAuthError when _get_token
+INFO 2012-03-27 00:45:36,824 oauth 10901 -1222956176 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:45:36,826 oauth 10901 -1222956176 consumer=tom
+INFO 2012-03-27 00:45:36,826 oauth 10901 -1222956176 in _get_token, consumer=tom
+INFO 2012-03-27 00:47:34,240 authentication 10925 -1222296720 path=piston.store.DataStore
+INFO 2012-03-27 00:47:34,266 authentication 10925 -1222296720 in oauth_access_token method
+INFO 2012-03-27 00:47:34,267 oauth 10925 -1222296720 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:47:34,273 oauth 10925 -1222296720 consumer=tom
+INFO 2012-03-27 00:47:34,274 oauth 10925 -1222296720 verifier=
+INFO 2012-03-27 00:47:34,274 oauth 10925 -1222296720 in _get_token else
+INFO 2012-03-27 00:47:34,274 oauth 10925 -1222296720 except OAuthError when _get_token
+INFO 2012-03-27 00:47:34,275 oauth 10925 -1222296720 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:47:34,277 oauth 10925 -1222296720 consumer=tom
+INFO 2012-03-27 00:47:34,277 oauth 10925 -1222296720 in _get_token, consumer=tom
+INFO 2012-03-27 00:48:43,796 authentication 10954 -1222255760 path=piston.store.DataStore
+INFO 2012-03-27 00:48:43,823 authentication 10954 -1222255760 in oauth_access_token method
+INFO 2012-03-27 00:48:43,824 oauth 10954 -1222255760 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:48:43,829 oauth 10954 -1222255760 consumer=tom
+INFO 2012-03-27 00:48:43,830 oauth 10954 -1222255760 verifier=
+INFO 2012-03-27 00:48:43,830 oauth 10954 -1222255760 in _get_token else
+INFO 2012-03-27 00:48:43,830 oauth 10954 -1222255760 except OAuthError when _get_token
+INFO 2012-03-27 00:48:43,831 oauth 10954 -1222255760 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:48:43,833 oauth 10954 -1222255760 consumer=tom
+INFO 2012-03-27 00:48:43,833 oauth 10954 -1222255760 in _get_token, consumer=tom
+INFO 2012-03-27 00:50:13,243 authentication 10981 -1222046864 path=piston.store.DataStore
+INFO 2012-03-27 00:50:13,267 authentication 10981 -1222046864 in oauth_access_token method
+INFO 2012-03-27 00:50:13,268 oauth 10981 -1222046864 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:50:13,273 oauth 10981 -1222046864 consumer=tom
+INFO 2012-03-27 00:50:13,274 oauth 10981 -1222046864 verifier=
+INFO 2012-03-27 00:50:13,274 oauth 10981 -1222046864 in _get_token else
+INFO 2012-03-27 00:50:13,274 oauth 10981 -1222046864 except OAuthError when _get_token
+INFO 2012-03-27 00:50:13,275 oauth 10981 -1222046864 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 00:50:13,277 oauth 10981 -1222046864 consumer=tom
+INFO 2012-03-27 00:50:13,277 oauth 10981 -1222046864 in _get_token, consumer=tom
+INFO 2012-03-27 08:08:24,077 authentication 13032 -1224070288 path=piston.store.DataStore
+INFO 2012-03-27 08:08:24,104 authentication 13032 -1224070288 in oauth_access_token method
+INFO 2012-03-27 08:08:24,105 oauth 13032 -1224070288 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:08:24,110 oauth 13032 -1224070288 consumer=tom
+INFO 2012-03-27 08:08:24,111 oauth 13032 -1224070288 verifier=
+INFO 2012-03-27 08:08:24,111 oauth 13032 -1224070288 in _get_token else
+INFO 2012-03-27 08:08:24,111 oauth 13032 -1224070288 except OAuthError when _get_token
+INFO 2012-03-27 08:08:24,112 oauth 13032 -1224070288 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:08:24,114 oauth 13032 -1224070288 consumer=tom
+INFO 2012-03-27 08:08:24,114 oauth 13032 -1224070288 in _get_token, consumer=tom
+INFO 2012-03-27 08:11:11,571 authentication 13067 -1224012944 path=piston.store.DataStore
+INFO 2012-03-27 08:11:11,597 authentication 13067 -1224012944 in oauth_access_token method
+INFO 2012-03-27 08:19:52,891 authentication 13093 -1224168592 path=piston.store.DataStore
+INFO 2012-03-27 08:19:52,915 authentication 13093 -1224168592 in oauth_access_token method
+INFO 2012-03-27 08:19:52,916 oauth 13093 -1224168592 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:19:52,921 oauth 13093 -1224168592 consumer=tom
+INFO 2012-03-27 08:19:52,922 oauth 13093 -1224168592 verifier=
+INFO 2012-03-27 08:19:52,922 oauth 13093 -1224168592 in _get_token else
+INFO 2012-03-27 08:19:52,922 oauth 13093 -1224168592 except OAuthError when _get_token
+INFO 2012-03-27 08:19:52,923 oauth 13093 -1224168592 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:19:52,925 oauth 13093 -1224168592 consumer=tom
+INFO 2012-03-27 08:19:52,925 oauth 13093 -1224168592 in _get_token, consumer=tom
+INFO 2012-03-27 08:21:15,110 authentication 13137 -1224361104 path=piston.store.DataStore
+INFO 2012-03-27 08:21:15,138 authentication 13137 -1224361104 in oauth_access_token method
+INFO 2012-03-27 08:21:15,139 authentication 13137 -1224361104 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:21:15,140 oauth 13137 -1224361104 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:21:15,146 oauth 13137 -1224361104 consumer=tom
+INFO 2012-03-27 08:21:15,147 oauth 13137 -1224361104 verifier=
+INFO 2012-03-27 08:21:15,147 oauth 13137 -1224361104 in _get_token else
+INFO 2012-03-27 08:21:15,147 oauth 13137 -1224361104 except OAuthError when _get_token
+INFO 2012-03-27 08:21:15,148 oauth 13137 -1224361104 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:21:15,150 oauth 13137 -1224361104 consumer=tom
+INFO 2012-03-27 08:21:15,150 oauth 13137 -1224361104 in _get_token, consumer=tom
+INFO 2012-03-27 08:21:57,299 authentication 13162 -1223546000 path=piston.store.DataStore
+INFO 2012-03-27 08:21:57,326 authentication 13162 -1223546000 in oauth_access_token method
+INFO 2012-03-27 08:21:57,326 authentication 13162 -1223546000 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:23:12,280 authentication 13186 -1224402064 path=piston.store.DataStore
+INFO 2012-03-27 08:23:12,304 authentication 13186 -1224402064 in oauth_access_token method
+INFO 2012-03-27 08:23:12,304 authentication 13186 -1224402064 initalize_server_rquest, rquest.method=GET
+INFO 2012-03-27 08:23:36,030 authentication 13218 -1224246416 path=piston.store.DataStore
+INFO 2012-03-27 08:23:36,059 authentication 13218 -1224246416 in oauth_access_token method
+INFO 2012-03-27 08:23:36,060 authentication 13218 -1224246416 initalize_server_rquest, rquest.method=GET
+INFO 2012-03-27 08:23:36,060 authentication 13218 -1224246416 params={}
+INFO 2012-03-27 08:23:36,061 oauth 13218 -1224246416 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:23:36,066 oauth 13218 -1224246416 consumer=tom
+INFO 2012-03-27 08:23:36,067 oauth 13218 -1224246416 verifier=
+INFO 2012-03-27 08:23:36,067 oauth 13218 -1224246416 in _get_token else
+INFO 2012-03-27 08:23:36,068 oauth 13218 -1224246416 except OAuthError when _get_token
+INFO 2012-03-27 08:23:36,068 oauth 13218 -1224246416 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:23:36,072 oauth 13218 -1224246416 consumer=tom
+INFO 2012-03-27 08:23:36,072 oauth 13218 -1224246416 in _get_token, consumer=tom
+INFO 2012-03-27 08:23:54,695 authentication 13248 -1223881872 path=piston.store.DataStore
+INFO 2012-03-27 08:23:54,720 authentication 13248 -1223881872 in oauth_access_token method
+INFO 2012-03-27 08:23:54,720 authentication 13248 -1223881872 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:23:54,721 authentication 13248 -1223881872 params={}
+INFO 2012-03-27 08:23:54,721 oauth 13248 -1223881872 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:23:54,728 oauth 13248 -1223881872 consumer=tom
+INFO 2012-03-27 08:23:54,728 oauth 13248 -1223881872 verifier=
+INFO 2012-03-27 08:23:54,728 oauth 13248 -1223881872 in _get_token else
+INFO 2012-03-27 08:23:54,729 oauth 13248 -1223881872 except OAuthError when _get_token
+INFO 2012-03-27 08:23:54,729 oauth 13248 -1223881872 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:23:54,731 oauth 13248 -1223881872 consumer=tom
+INFO 2012-03-27 08:23:54,731 oauth 13248 -1223881872 in _get_token, consumer=tom
+INFO 2012-03-27 08:24:58,084 authentication 13274 -1223873680 path=piston.store.DataStore
+INFO 2012-03-27 08:24:58,109 authentication 13274 -1223873680 in oauth_access_token method
+INFO 2012-03-27 08:24:58,109 authentication 13274 -1223873680 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:24:58,110 authentication 13274 -1223873680 params={}
+INFO 2012-03-27 08:24:58,110 authentication 13274 -1223873680 authorization=OAuth x_auth_username="tom", x_auth_password="tom", oauth_consumer_key="2Tk7LcRnykRdTV4PCe", oauth_signature_method="HMAC-SHA1", oauth_signature="fV3sFSY63UPLHjHiQ7q1qvcaX0Q=", oauth_timestamp="1332807897", oauth_nonce="6x7l40tx3m3n72ge28", oauth_version="1.0"
+INFO 2012-03-27 08:24:58,111 oauth 13274 -1223873680 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:24:58,117 oauth 13274 -1223873680 consumer=tom
+INFO 2012-03-27 08:24:58,118 oauth 13274 -1223873680 verifier=
+INFO 2012-03-27 08:24:58,118 oauth 13274 -1223873680 in _get_token else
+INFO 2012-03-27 08:24:58,118 oauth 13274 -1223873680 except OAuthError when _get_token
+INFO 2012-03-27 08:24:58,119 oauth 13274 -1223873680 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:24:58,120 oauth 13274 -1223873680 consumer=tom
+INFO 2012-03-27 08:24:58,121 oauth 13274 -1223873680 in _get_token, consumer=tom
+INFO 2012-03-27 08:26:26,133 authentication 13304 -1223816336 path=piston.store.DataStore
+INFO 2012-03-27 08:26:26,158 authentication 13304 -1223816336 in oauth_access_token method
+INFO 2012-03-27 08:26:26,158 authentication 13304 -1223816336 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:26:26,159 authentication 13304 -1223816336 params={}
+INFO 2012-03-27 08:26:26,159 authentication 13304 -1223816336 authorization=OAuth x_auth_username="tom", x_auth_password="tom", oauth_consumer_key="2Tk7LcRnykRdTV4PCe", oauth_signature_method="HMAC-SHA1", oauth_signature="OKiWWTbiagOa6r12IEIrHy3oSwE=", oauth_timestamp="1332807986", oauth_nonce="w9f55mj7kam8x9ituv", oauth_version="1.0"
+INFO 2012-03-27 08:26:26,160 authentication 13304 -1223816336 oauth_request is not none
+INFO 2012-03-27 08:26:26,161 oauth 13304 -1223816336 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:26:26,168 oauth 13304 -1223816336 consumer=tom
+INFO 2012-03-27 08:26:26,169 oauth 13304 -1223816336 verifier=
+INFO 2012-03-27 08:26:26,169 oauth 13304 -1223816336 in _get_token else
+INFO 2012-03-27 08:26:26,170 oauth 13304 -1223816336 except OAuthError when _get_token
+INFO 2012-03-27 08:26:26,170 oauth 13304 -1223816336 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:26:26,172 oauth 13304 -1223816336 consumer=tom
+INFO 2012-03-27 08:26:26,172 oauth 13304 -1223816336 in _get_token, consumer=tom
+INFO 2012-03-27 08:27:08,747 authentication 13328 -1223713936 path=piston.store.DataStore
+INFO 2012-03-27 08:27:08,771 authentication 13328 -1223713936 in oauth_access_token method
+INFO 2012-03-27 08:27:08,772 authentication 13328 -1223713936 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:27:08,772 authentication 13328 -1223713936 params={}
+INFO 2012-03-27 08:27:08,773 authentication 13328 -1223713936 authorization=OAuth x_auth_username="tom", x_auth_password="tom", oauth_consumer_key="2Tk7LcRnykRdTV4PCe", oauth_signature_method="HMAC-SHA1", oauth_signature="bZxj7PtR+qwc+OSQjgvgG9ErY2U=", oauth_timestamp="1332808028", oauth_nonce="0bqb1rshi167iir4pd", oauth_version="1.0"
+INFO 2012-03-27 08:27:08,774 authentication 13328 -1223713936 oauth_request is not none
+INFO 2012-03-27 08:27:08,774 authentication 13328 -1223713936 oauth_server is <PistonTest.piston.oauth.OAuthServer object at 0xaa05acc>
+INFO 2012-03-27 08:27:08,775 oauth 13328 -1223713936 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:27:08,780 oauth 13328 -1223713936 consumer=tom
+INFO 2012-03-27 08:27:08,781 oauth 13328 -1223713936 verifier=
+INFO 2012-03-27 08:27:08,781 oauth 13328 -1223713936 in _get_token else
+INFO 2012-03-27 08:27:08,781 oauth 13328 -1223713936 except OAuthError when _get_token
+INFO 2012-03-27 08:27:08,782 oauth 13328 -1223713936 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:27:08,784 oauth 13328 -1223713936 consumer=tom
+INFO 2012-03-27 08:27:08,784 oauth 13328 -1223713936 in _get_token, consumer=tom
+INFO 2012-03-27 08:28:35,491 authentication 13328 -1223713936 in oauth_access_token method
+INFO 2012-03-27 08:28:35,491 authentication 13328 -1223713936 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:28:35,492 authentication 13328 -1223713936 params={}
+INFO 2012-03-27 08:28:35,492 authentication 13328 -1223713936 authorization=OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='PHYfdpwFe9l90RfiEKd3oCb2zCs=', oauth_timestamp='1332808115', oauth_nonce='kfvc0ebfe97awo8b5o', oauth_version='1.0'
+INFO 2012-03-27 08:28:35,493 authentication 13328 -1223713936 oauth_request is not none
+INFO 2012-03-27 08:28:35,493 authentication 13328 -1223713936 oauth_server is <PistonTest.piston.oauth.OAuthServer object at 0xa91a1ec>
+INFO 2012-03-27 08:29:00,406 authentication 13328 -1223713936 in oauth_access_token method
+INFO 2012-03-27 08:29:00,406 authentication 13328 -1223713936 initalize_server_rquest, rquest.method=POST
+INFO 2012-03-27 08:29:00,407 authentication 13328 -1223713936 params={}
+INFO 2012-03-27 08:29:00,407 authentication 13328 -1223713936 authorization=OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=cuglj9AizL7mqPkEFDvENAWHaw4=, oauth_timestamp=1332808140, oauth_nonce=m8of4ljhnhf5rdpnuo, oauth_version=1.0
+INFO 2012-03-27 08:29:00,407 authentication 13328 -1223713936 oauth_request is not none
+INFO 2012-03-27 08:29:00,408 authentication 13328 -1223713936 oauth_server is <PistonTest.piston.oauth.OAuthServer object at 0xa91a2ec>
+INFO 2012-03-27 08:29:00,408 oauth 13328 -1223713936 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:29:00,411 oauth 13328 -1223713936 consumer=tom
+INFO 2012-03-27 08:29:00,412 oauth 13328 -1223713936 verifier=
+INFO 2012-03-27 08:29:00,412 oauth 13328 -1223713936 in _get_token else
+INFO 2012-03-27 08:29:00,412 oauth 13328 -1223713936 except OAuthError when _get_token
+INFO 2012-03-27 08:29:00,412 oauth 13328 -1223713936 consumer_key=2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 08:29:00,414 oauth 13328 -1223713936 consumer=tom
+INFO 2012-03-27 08:29:00,415 oauth 13328 -1223713936 in _get_token, consumer=tom
+DEBUG 2012-03-27 20:32:30,828 authentication 4328 -1222145168 oauth_server is <PistonTest.piston.oauth.OAuthServer object at 0x9dde8cc>
+DEBUG 2012-03-27 20:32:30,858 authentication 4328 -1222145168 oauht_request is <PistonTest.piston.oauth.OAuthRequest object at 0x9d5db8c>
+INFO 2012-03-27 20:32:56,200 authentication 4355 -1222788240 oauth_server is <PistonTest.piston.oauth.OAuthServer object at 0x91158cc>
+INFO 2012-03-27 20:32:56,200 authentication 4355 -1222788240 oauht_request is <PistonTest.piston.oauth.OAuthRequest object at 0x9028b8c>
+INFO 2012-03-27 20:35:05,355 authentication 4388 -1222198416 params is {}
+INFO 2012-03-27 20:35:05,356 authentication 4388 -1222198416 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='YIh6AKInuA5/6RcNwMoUgjw5w0o=', oauth_timestamp='1332851705', oauth_nonce='hmhxv3re11o542zrmp', oauth_version='1.0'
+INFO 2012-03-27 20:37:03,651 authentication 4420 -1222190224 request.method is POST
+INFO 2012-03-27 20:37:03,651 authentication 4420 -1222190224 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='/59Dsvo20dJ0e6hXBvLr8mreKmQ=', oauth_timestamp='1332851823', oauth_nonce='bhmmdkdmc3vabttdnq', oauth_version='1.0'
+INFO 2012-03-27 20:38:32,371 authentication 4451 -1222714512 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='Bi9Qwb2OU7DftCTNVrgX23tnh0s=', oauth_timestamp='1332851912', oauth_nonce='j21l722cmhjs7pyykm', oauth_version='1.0'
+INFO 2012-03-27 20:41:27,099 authentication 4508 -1222259856 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='SkyFCwaeIfC5viW/9lW7iKQpOIg=', oauth_timestamp='1332852086', oauth_nonce='0dv8z19bm18fotizsm', oauth_version='1.0'
+INFO 2012-03-27 20:41:27,100 authentication 4508 -1222259856 in oauth_access_token, it get the token now
+INFO 2012-03-27 20:42:57,866 authentication 4545 -1222866064 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='uSEJYuMjqLu6tr8V9mjVjcc0OuA=', oauth_timestamp='1332852177', oauth_nonce='wygk67j7os7jjgu0ro', oauth_version='1.0'
+INFO 2012-03-27 20:46:46,803 authentication 4592 -1222763664 in send_oauth_error, key is WWW-Authenticate
+INFO 2012-03-27 20:46:46,804 authentication 4592 -1222763664 in send_oauth_error, value is OAuth realm="OAuth"
+INFO 2012-03-27 20:46:46,804 authentication 4592 -1222763664 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:46:46,823 authentication 4592 -1222763664 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='7De79tFRZ0nIZQQLryIyaJCNYGk=', oauth_timestamp='1332852406', oauth_nonce='j1jhpkqmyigj3jimw7', oauth_version='1.0'
+INFO 2012-03-27 20:46:46,824 authentication 4592 -1222763664 in send_oauth_error, key is WWW-Authenticate
+INFO 2012-03-27 20:46:46,825 authentication 4592 -1222763664 in send_oauth_error, value is OAuth realm="OAuth"
+INFO 2012-03-27 20:46:46,825 authentication 4592 -1222763664 in send_oauth_error, response.content is OAuth version '1.0' not supported.
+INFO 2012-03-27 20:47:34,379 authentication 4592 -1222763664 request.META["Authorization"] is OAuth x_auth_username='tom', x_auth_password='tom', oauth_consumer_key='2Tk7LcRnykRdTV4PCe', oauth_signature_method='HMAC-SHA1', oauth_signature='84ZfrzYpsfOaGDehlkgyMZ/FoYg=', oauth_timestamp='1332852454', oauth_nonce='cdcykoycqgb50gws5c', oauth_version='1.0a'
+INFO 2012-03-27 20:47:34,380 authentication 4592 -1222763664 in send_oauth_error, key is WWW-Authenticate
+INFO 2012-03-27 20:47:34,381 authentication 4592 -1222763664 in send_oauth_error, value is OAuth realm="OAuth"
+INFO 2012-03-27 20:47:34,381 authentication 4592 -1222763664 in send_oauth_error, response.content is OAuth version '1.0a' not supported.
+INFO 2012-03-27 20:47:55,989 authentication 4660 -1222911120 in send_oauth_error, key is WWW-Authenticate
+INFO 2012-03-27 20:47:55,989 authentication 4660 -1222911120 in send_oauth_error, value is OAuth realm="OAuth"
+INFO 2012-03-27 20:47:55,990 authentication 4660 -1222911120 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:47:56,008 authentication 4660 -1222911120 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=8N0iw7EaAqciGTd952AjI9JkHIE=, oauth_timestamp=1332852475, oauth_nonce=0ot998zgeab70wi9a4, oauth_version=1.0a
+INFO 2012-03-27 20:47:56,009 authentication 4660 -1222911120 in send_oauth_error, key is WWW-Authenticate
+INFO 2012-03-27 20:47:56,009 authentication 4660 -1222911120 in send_oauth_error, value is OAuth realm="OAuth"
+INFO 2012-03-27 20:47:56,010 authentication 4660 -1222911120 in send_oauth_error, response.content is OAuth version 1.0a not supported.
+INFO 2012-03-27 20:48:27,045 authentication 4689 -1222485136 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:48:27,064 authentication 4689 -1222485136 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=ORiCdlgF+nOEod1rV1HVYBK2Rqw=, oauth_timestamp=1332852506, oauth_nonce=vwt8pt6joekyorc24w, oauth_version=1.0a
+INFO 2012-03-27 20:48:27,064 authentication 4689 -1222485136 in send_oauth_error, response.content is OAuth version 1.0a not supported.
+INFO 2012-03-27 20:48:47,750 authentication 4689 -1222485136 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=10YjVErOecgAt4GaTxc08tMOo8U=, oauth_timestamp=1332852527, oauth_nonce=x9rn9tzz0n0gxuuh1v
+INFO 2012-03-27 20:48:48,212 authentication 4689 -1222485136 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dx9rn9tzz0n0gxuuh1v%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852527%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 20:50:38,720 authentication 4689 -1222485136 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332852638, oauth_nonce=soi26iosd8vtlvwjvh
+INFO 2012-03-27 20:50:39,168 authentication 4689 -1222485136 in send_oauth_error, response.content is Missing signature.
+INFO 2012-03-27 20:51:17,862 authentication 4843 -1222956176 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:51:17,882 authentication 4843 -1222956176 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=GA5AZSQRMG0agCmfd0a2cX9Mces=, oauth_timestamp=1332852677, oauth_nonce=qrkja1ctmdcduwd0yp
+INFO 2012-03-27 20:51:18,369 authentication 4843 -1222956176 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dqrkja1ctmdcduwd0yp%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852677%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 20:55:34,106 authentication 4843 -1222956176 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&x_auth_username%3Dtom%26x_auth_password%3Dtom%26oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_signature%3D%26oauth_timestamp%3D1332852934%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1, oauth_timestamp=1332852934, oauth_nonce=vxvwn1ee53j5j2c1t1
+INFO 2012-03-27 20:55:34,593 authentication 4843 -1222956176 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852934%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 20:56:22,167 authentication 4843 -1222956176 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852934%26x_auth_password%3Dtom%26x_auth_username%3Dtom, oauth_timestamp=1332852982, oauth_nonce=a43oymwf7560y03f9b
+INFO 2012-03-27 20:56:22,649 authentication 4843 -1222956176 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Da43oymwf7560y03f9b%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852982%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 20:58:15,147 authentication 5143 -1222775952 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:58:15,165 authentication 5143 -1222775952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852934%26x_auth_password%3Dtom%26x_auth_username%3Dtom, oauth_timestamp=1332853095, oauth_nonce=qhz1vg82ks2w6qpso7
+INFO 2012-03-27 20:58:15,683 authentication 5143 -1222775952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dqhz1vg82ks2w6qpso7%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853095%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 20:58:42,705 authentication 5212 -1222771856 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 20:58:42,723 authentication 5212 -1222771856 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852934%26x_auth_password%3Dtom%26x_auth_username%3Dtom, oauth_timestamp=1332853122, oauth_nonce=l67rdsu2mmuacvm15v
+INFO 2012-03-27 20:58:43,183 authentication 5212 -1222771856 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dl67rdsu2mmuacvm15v%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853122%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:01:16,332 authentication 5239 -1222886544 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:01:16,351 authentication 5239 -1222886544 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332853276, oauth_nonce=0szaz27yy08y58w8w1
+INFO 2012-03-27 21:01:16,828 authentication 5239 -1222886544 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D0szaz27yy08y58w8w1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853276%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:02:26,769 authentication 5332 -1222587536 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:02:26,786 authentication 5332 -1222587536 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332853346, oauth_nonce=qo0lpjyfpo5ay0ny4v
+INFO 2012-03-27 21:02:27,351 authentication 5332 -1222587536 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dqo0lpjyfpo5ay0ny4v%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853346%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:04:57,839 authentication 5368 -1222665360 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:04:57,870 authentication 5368 -1222665360 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332853497, oauth_nonce=q23lo91pfcx32e1tgd
+INFO 2012-03-27 21:04:57,881 oauth 5368 -1222665360 in fetch_access_token, version is 1.0
+INFO 2012-03-27 21:04:57,882 oauth 5368 -1222665360 in fetch_access_token, consumer isConsumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:04:58,341 authentication 5368 -1222665360 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dq23lo91pfcx32e1tgd%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853497%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:06:12,058 authentication 5402 -1222296720 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:06:12,077 authentication 5402 -1222296720 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332853571, oauth_nonce=6dvi2z2m6dwc6x8xzr
+INFO 2012-03-27 21:06:45,467 authentication 5433 -1222136976 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:06:45,484 authentication 5433 -1222136976 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332853605, oauth_nonce=rzcjc4fagip88a5h8s
+INFO 2012-03-27 21:06:45,490 oauth 5433 -1222136976 in fetch_acces_token, verifier is 
+INFO 2012-03-27 21:06:45,964 authentication 5433 -1222136976 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Drzcjc4fagip88a5h8s%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332853605%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:13:42,801 authentication 5514 -1222431888 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:13:42,819 authentication 5514 -1222431888 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854022, oauth_nonce=w90roi08yra5e6jmnb
+INFO 2012-03-27 21:13:42,826 oauth 5514 -1222431888 in get token, raise error, consumer is Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:13:43,278 authentication 5514 -1222431888 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dw90roi08yra5e6jmnb%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854022%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:16:09,847 authentication 5561 -1222075536 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:16:09,865 authentication 5561 -1222075536 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854169, oauth_nonce=c2ntx45rhsh9h2tmqe
+INFO 2012-03-27 21:16:09,872 oauth 5561 -1222075536 self.data_store is <piston.store.DataStore object at 0x9cd7a6c>
+INFO 2012-03-27 21:16:10,479 authentication 5561 -1222075536 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dc2ntx45rhsh9h2tmqe%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854169%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:17:42,272 authentication 5613 -1222837392 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:17:42,301 authentication 5613 -1222837392 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854262, oauth_nonce=prh3930pig05tv291z
+INFO 2012-03-27 21:17:42,311 oauth 5613 -1222837392 self.data_store is <piston.store.DataStore object at 0x9c25aac>
+INFO 2012-03-27 21:19:50,146 authentication 5649 -1222526096 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:19:50,172 authentication 5649 -1222526096 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854389, oauth_nonce=rfk216ulz2ll1of0ys
+INFO 2012-03-27 21:19:50,183 oauth 5649 -1222526096 self.data_store is <piston.store.DataStore object at 0xa931a6c>
+INFO 2012-03-27 21:19:50,770 authentication 5649 -1222526096 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Drfk216ulz2ll1of0ys%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854389%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:20:41,596 authentication 5682 -1222792336 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:20:41,614 authentication 5682 -1222792336 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854441, oauth_nonce=qe4lkt3hreois5wfya
+INFO 2012-03-27 21:20:41,620 oauth 5682 -1222792336 in _get_token else
+INFO 2012-03-27 21:20:41,622 oauth 5682 -1222792336 self.data_store is <piston.store.DataStore object at 0x8cb2a6c>
+INFO 2012-03-27 21:20:42,126 authentication 5682 -1222792336 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dqe4lkt3hreois5wfya%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854441%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:26:40,226 authentication 5733 -1222988944 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:26:40,245 authentication 5733 -1222988944 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854800, oauth_nonce=1q9cuwqol70srdwm2w
+INFO 2012-03-27 21:26:40,252 oauth 5733 -1222988944 self.data_store is <piston.store.DataStore object at 0x9edaa6c>
+INFO 2012-03-27 21:26:40,687 oauth 5733 -1222988944 in _get_token, user is tom
+INFO 2012-03-27 21:26:40,906 authentication 5733 -1222988944 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D1q9cuwqol70srdwm2w%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854800%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:28:32,777 authentication 5771 -1222489232 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:29:23,440 authentication 5799 -1222083728 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:29:23,459 authentication 5799 -1222083728 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332854963, oauth_nonce=atzxj0c3ec7xkykv6f
+INFO 2012-03-27 21:29:23,467 oauth 5799 -1222083728 self.data_store is <piston.store.DataStore object at 0xa3f5a8c>
+INFO 2012-03-27 21:29:23,733 oauth 5799 -1222083728 in _get_token, user is tom
+INFO 2012-03-27 21:29:23,863 oauth 5799 -1222083728 in _get_token, token is Request Token yRw7Vqpd84DUb6ZMKq for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:29:23,985 authentication 5799 -1222083728 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Datzxj0c3ec7xkykv6f%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332854963%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:34:53,477 authentication 5913 -1222796432 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:34:53,498 authentication 5913 -1222796432 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332855293, oauth_nonce=n5vu5mcrngh0idrlet
+INFO 2012-03-27 21:34:53,506 oauth 5913 -1222796432 self.data_store is <piston.store.DataStore object at 0xa87ea6c>
+INFO 2012-03-27 21:34:53,790 oauth 5913 -1222796432 in _get_token, user is tom
+INFO 2012-03-27 21:34:53,909 oauth 5913 -1222796432 in _get_token, token is Request Token A68NcKuNLe2XxUmmPt for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:34:54,032 authentication 5913 -1222796432 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dn5vu5mcrngh0idrlet%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332855293%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:37:44,339 authentication 6067 -1222210704 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:37:44,359 authentication 6067 -1222210704 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332855464, oauth_nonce=yiqgjjv6kvfuoii01q
+INFO 2012-03-27 21:37:44,365 oauth 6067 -1222210704 in _get_token else, token_type is request
+INFO 2012-03-27 21:37:44,367 oauth 6067 -1222210704 self.data_store is <piston.store.DataStore object at 0x9195a6c>
+INFO 2012-03-27 21:37:44,635 oauth 6067 -1222210704 in _get_token, user is tom
+INFO 2012-03-27 21:37:44,755 oauth 6067 -1222210704 in _get_token, token is Request Token GwfnYTmBQfgr6QzGqM for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:37:44,955 authentication 6067 -1222210704 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dyiqgjjv6kvfuoii01q%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332855464%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 21:43:05,071 authentication 6124 -1222505616 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:43:05,098 authentication 6124 -1222505616 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332855784, oauth_nonce=ajecz5uzda7sag8da4
+INFO 2012-03-27 21:43:05,106 oauth 6124 -1222505616 in _get_token else, token_type is request
+INFO 2012-03-27 21:43:05,107 oauth 6124 -1222505616 in _get_token, raise error when get token_field
+INFO 2012-03-27 21:44:23,672 authentication 6155 -1222894736 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:51:24,294 authentication 6424 -1222780048 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 21:51:24,319 authentication 6424 -1222780048 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332856284, oauth_nonce=iirx9b1869odg26amh
+INFO 2012-03-27 21:51:24,324 oauth 6424 -1222780048 in _get_token else, token_type is request
+INFO 2012-03-27 21:51:24,326 oauth 6424 -1222780048 self.data_store is <piston.store.DataStore object at 0x9b42a6c>
+INFO 2012-03-27 21:51:24,585 oauth 6424 -1222780048 in _get_token, user is tom
+INFO 2012-03-27 21:51:24,694 oauth 6424 -1222780048 token is Request Token xHW5F97UUCMZKkAKgP for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 21:51:24,805 authentication 6424 -1222780048 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Diirx9b1869odg26amh%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332856284%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:11:54,527 authentication 6850 -1222747280 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:12:10,149 authentication 6858 -1222829200 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:12:10,173 authentication 6858 -1222829200 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857529, oauth_nonce=4yyppkd24w99esuos0
+INFO 2012-03-27 22:12:10,181 oauth 6858 -1222829200 self.data_store is <PistonTest.piston.store.DataStore object at 0x8e19b8c>
+INFO 2012-03-27 22:13:12,929 authentication 6900 -1222706320 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:13:31,119 authentication 6903 -1222837392 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:13:44,826 authentication 6911 -1222718608 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:13:44,848 authentication 6911 -1222718608 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857624, oauth_nonce=drf5aqn9dvzkzrle6f
+INFO 2012-03-27 22:13:44,858 oauth 6911 -1222718608 self.data_store is <PistonTest.piston.store.DataStore object at 0xa8a7b8c>
+INFO 2012-03-27 22:14:36,910 authentication 6938 -1222034576 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:14:36,931 authentication 6938 -1222034576 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857676, oauth_nonce=eviubr9vedflz0kjku
+INFO 2012-03-27 22:14:48,807 authentication 6968 -1222853776 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:14:48,833 authentication 6968 -1222853776 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857688, oauth_nonce=3uyaj1yga4kkmipjw4
+INFO 2012-03-27 22:15:16,379 authentication 6997 -1222440080 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:15:16,401 authentication 6997 -1222440080 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857716, oauth_nonce=4ddz6al922dp789tia
+INFO 2012-03-27 22:16:06,112 authentication 7024 -1222227088 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:16:06,136 authentication 7024 -1222227088 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857765, oauth_nonce=9hnkua1qjv9cmjr796
+INFO 2012-03-27 22:16:06,404 oauth 7024 -1222227088 in _get_token, token is Access Token MZH6NdTqRUFMwXZjwL for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 22:16:06,407 oauth 7024 -1222227088 in _get_token, user is tom
+INFO 2012-03-27 22:16:06,515 oauth 7024 -1222227088 in _get_token, token is Access Token MZH6NdTqRUFMwXZjwL for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 22:16:06,627 authentication 7024 -1222227088 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D9hnkua1qjv9cmjr796%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332857765%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:17:03,648 authentication 7066 -1222366352 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:17:03,671 authentication 7066 -1222366352 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857823, oauth_nonce=ieck52t78ngwu9enof
+INFO 2012-03-27 22:17:04,016 oauth 7066 -1222366352 in _get_token, token is Access Token DArdWj2yptKEr2nDgW for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 22:17:04,116 authentication 7066 -1222366352 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dieck52t78ngwu9enof%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332857823%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:17:55,224 authentication 7106 -1222800528 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:17:55,249 authentication 7106 -1222800528 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332857875, oauth_nonce=urc68w98yh4anwye8l
+INFO 2012-03-27 22:17:55,627 oauth 7106 -1222800528 token is Access Token EHGDJYnUQd6ZTgNzmy for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 22:17:55,727 authentication 7106 -1222800528 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Durc68w98yh4anwye8l%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332857875%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:20:28,743 authentication 7172 -1222960272 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:20:28,764 authentication 7172 -1222960272 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332858028, oauth_nonce=yw1cp4nigfk3bzo74i
+INFO 2012-03-27 22:20:29,139 oauth 7172 -1222960272 in _check_signature, timestamp is 1332858028
+INFO 2012-03-27 22:20:29,140 oauth 7172 -1222960272 in _check_signature, nonce is yw1cp4nigfk3bzo74i
+INFO 2012-03-27 22:20:29,240 authentication 7172 -1222960272 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dyw1cp4nigfk3bzo74i%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332858028%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:21:40,873 authentication 7211 -1222759568 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:21:40,894 authentication 7211 -1222759568 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332858100, oauth_nonce=a9gy3rw8yb7vkqj3tm
+INFO 2012-03-27 22:21:41,461 oauth 7211 -1222759568 timestamp and nonce is right
+INFO 2012-03-27 22:21:41,463 authentication 7211 -1222759568 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Da9gy3rw8yb7vkqj3tm%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332858100%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:23:17,285 authentication 7251 -1222612112 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:23:17,315 authentication 7251 -1222612112 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332858197, oauth_nonce=fhoc478b2yspu6rsdt
+INFO 2012-03-27 22:23:46,195 authentication 7283 -1222435984 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:23:46,220 authentication 7283 -1222435984 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332858226, oauth_nonce=yat3tm5eewiu6wpgv6
+INFO 2012-03-27 22:23:46,718 oauth 7283 -1222435984 signatrue method is <PistonTest.piston.oauth.OAuthSignatureMethod_HMAC_SHA1 object at 0xaa4fc0c>
+INFO 2012-03-27 22:23:46,719 authentication 7283 -1222435984 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dyat3tm5eewiu6wpgv6%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332858226%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:32:41,124 authentication 7352 -1222657168 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:32:41,148 authentication 7352 -1222657168 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dvxvwn1ee53j5j2c1t1%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332852934%26x_auth_password%3Dtom%26x_auth_username%3Dtom, oauth_timestamp=1332858760, oauth_nonce=dxcypcom6ksnbvianr
+INFO 2012-03-27 22:32:41,656 authentication 7352 -1222657168 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Ddxcypcom6ksnbvianr%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332858760%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:34:07,864 authentication 7595 -1222222992 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:34:07,885 authentication 7595 -1222222992 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=w+ap0vhaPa/usdiotv3V2nnGcrE=, oauth_timestamp=1332858847, oauth_nonce=njpd3q2istb60rc8x4
+INFO 2012-03-27 22:36:35,328 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:36:35,349 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=JbNeNQHUgP87yQ/4IQ6zL1epuh4=, oauth_timestamp=1332858995, oauth_nonce=gb6b46uw7cu08ldesj
+INFO 2012-03-27 22:36:35,846 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dgb6b46uw7cu08ldesj%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332858995%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:40:10,546 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=wjlJVotV4pZipNZVNx4TN32QUPU=, oauth_timestamp=1332859210, oauth_nonce=5vqrtznnuv5lyeqotb
+INFO 2012-03-27 22:40:11,047 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D5vqrtznnuv5lyeqotb%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332859210%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:41:46,356 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=iQIiSESevPDI+GAWoUdl406Mot8=, oauth_timestamp=1332859306, oauth_nonce=n80ddkgr83zx41xg91
+INFO 2012-03-27 22:41:46,848 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dn80ddkgr83zx41xg91%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332859306%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:43:41,223 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=jMT4ddFfe+KZ05uLqbCHKj+/A4I=, oauth_timestamp=1332859421, oauth_nonce=9jsx6add3m89apfmmt
+INFO 2012-03-27 22:43:41,783 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D9jsx6add3m89apfmmt%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332859421%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:45:00,843 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature='BGORCZKzEQthLqZZ8XIpGXTVpSw=', oauth_timestamp=1332859500, oauth_nonce=krjcja93h40slekur3
+INFO 2012-03-27 22:45:01,323 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dkrjcja93h40slekur3%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332859500%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:46:54,490 authentication 7624 -1222263952 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=xH8Xo8V4GYG+eWynquP12oUIev4=, oauth_timestamp=1332859614, oauth_nonce=6i7zj0y8if6pml1zll
+INFO 2012-03-27 22:46:54,984 authentication 7624 -1222263952 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D6i7zj0y8if6pml1zll%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332859614%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 22:48:36,050 authentication 7624 -1222263952 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=gobajlt7ipmmvlv6lv, oauth_signature_method=HMAC-SHA1, oauth_signature=, oauth_timestamp=9c5vhT1VaBZt7AQkNbLYrn/Wp38=, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 22:49:08,546 authentication 8098 -1222567056 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:49:08,578 authentication 8098 -1222567056 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=0jk0h5jz0ozapgfwt5, oauth_signature_method=HMAC-SHA1, oauth_signature=, oauth_timestamp=YfqVSRxWlUUIKAe0OaeZEe9XWcE=, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 22:50:55,565 authentication 8142 -1222464656 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:51:34,399 authentication 8172 -1222706320 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:51:59,630 authentication 8203 -1223038096 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:54:38,339 authentication 8286 -1222861968 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:55:13,129 authentication 8315 -1222415504 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:56:37,803 authentication 8400 -1222124688 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:57:56,253 authentication 8459 -1222722704 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:58:34,664 authentication 8487 -1222784144 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:59:08,597 authentication 8515 -1222780048 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 22:59:55,865 authentication 8544 -1222943888 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:00:30,573 authentication 8588 -1222456464 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:00:49,717 authentication 8627 -1222800528 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:00:49,738 authentication 8627 -1222800528 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=WWVXTggrsC8lIEsf69ndwL2GPdw=, oauth_timestamp=1332860449, oauth_nonce=awl7174dfi2rkgq2bf
+INFO 2012-03-27 23:00:50,200 oauth 8627 -1222800528 token is Access Token hryPfWsT3vNYwtZudw for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:00:50,307 authentication 8627 -1222800528 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dawl7174dfi2rkgq2bf%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332860449%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:01:09,327 authentication 8654 -1222919312 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:01:09,353 authentication 8654 -1222919312 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=AcD+xy1ZWGj87bipmJHqNK1VAvI=, oauth_timestamp=1332860469, oauth_nonce=ppx1882wrw52bsfmz7
+INFO 2012-03-27 23:01:09,723 oauth 8654 -1222919312 token is Access Token ZqTgYmhtzum9EXtPzF for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:01:21,914 authentication 8678 -1222018192 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:02:03,669 authentication 8708 -1222067344 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:02:03,697 authentication 8708 -1222067344 request.META["Authorization"] is OAuth x_auth_username=tom, x_auth_password=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_signature_method=HMAC-SHA1, oauth_signature=RF0VEB4D7O8DVJBs5MYDIr+pg3Y=, oauth_timestamp=1332860523, oauth_nonce=plun2xuzwmophfxc87
+INFO 2012-03-27 23:02:04,145 oauth 8708 -1222067344 token is Access Token Yv9puGGM8CDqXH5gED for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:02:04,290 authentication 8708 -1222067344 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dplun2xuzwmophfxc87%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332860523%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:04:05,834 authentication 8708 -1222067344 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=r1k4711h4vqyga65c6, oauth_signature_method=HMAC-SHA1, oauth_signature=, oauth_timestamp=vxoRbMOaL1uSzAGjwUSTL7edXU8=, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:04:31,170 authentication 8814 -1222222992 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:04:31,191 authentication 8814 -1222222992 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=u6rupdyqkn0hhbyflo, oauth_signature_method=HMAC-SHA1, oauth_signature=, oauth_timestamp=Xl7Y8KlZLUfPOgdXg/dSDY/nPws=, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:05:16,209 authentication 8847 -1222292624 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:05:16,233 authentication 8847 -1222292624 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=ltlfvnj7482ivpn3bc, oauth_signature_method=HMAC-SHA1, oauth_signature=, oauth_timestamp=UvdvjruhkDSXgDzHzTugr6Z08R0=, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:05:58,955 authentication 8847 -1222292624 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=nelqz280tecn8xhcj0, oauth_signature_method=HMAC-SHA1, oauth_signature=iKfExJZ+Tg6VIJU+DAsjKqk3g8g=, oauth_timestamp=1332860758, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:05:59,380 oauth 8847 -1222292624 token is Access Token v3vwPwNbYaUCUQrX2X for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:05:59,498 authentication 8847 -1222292624 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dnelqz280tecn8xhcj0%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332860758%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:06:12,946 authentication 8904 -1223058576 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:06:12,969 authentication 8904 -1223058576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=flpp5hrs6g0je45rup, oauth_signature_method=HMAC-SHA1, oauth_signature=PfW2biqcaGlRlENTEXV7rJfNwm8=, oauth_timestamp=1332860772, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:06:13,358 oauth 8904 -1223058576 token is Access Token Q2TJJQe2D9KBaEgfZT for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:06:13,470 authentication 8904 -1223058576 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dflpp5hrs6g0je45rup%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332860772%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:09:52,200 authentication 8904 -1223058576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=e2mhkxe6yh2nkji6rf, oauth_signature_method=HMAC-SHA1, oauth_signature=/g2Cnp3SNoUWtEBilvyFXe/V9FQ=, oauth_timestamp=1332860992, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:09:52,660 oauth 8904 -1223058576 token is Access Token LHEaVyxh5asyJQvejJ for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:09:52,771 authentication 8904 -1223058576 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3De2mhkxe6yh2nkji6rf%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332860992%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:11:39,332 authentication 8904 -1223058576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=2fmiyetvir3rmalhcy, oauth_signature_method=HMAC-SHA1, oauth_signature=FzB4tW8D1FZBssnA6TheHqSpnF4=, oauth_timestamp=1332861099, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:11:39,716 oauth 8904 -1223058576 token is Access Token uPrnW7LCZzmBTAX5Xq for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:11:39,827 authentication 8904 -1223058576 in send_oauth_error, response.content is Invalid signature. Expected signature base string: POST&http%3A%2F%2F127.0.0.1%3A8000%2Foauth%2Faccess_token%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D2fmiyetvir3rmalhcy%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332861099%26x_auth_password%3Dtom%26x_auth_username%3Dtom
+INFO 2012-03-27 23:12:00,360 authentication 8904 -1223058576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=lr0a1zeqqnt4ixsth6, oauth_signature_method=HMAC-SHA1, oauth_signature=jVIY/R2g1X266AOKtL7J9X0McZs=, oauth_timestamp=1332861120, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:12:00,716 oauth 8904 -1223058576 token is Access Token F2ZMmGJbtgRAENaenk for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:26:43,848 authentication 9293 -1223042192 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-27 23:26:43,877 authentication 9293 -1223042192 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=xy271wnslfk9wq4zxx, oauth_signature_method=HMAC-SHA1, oauth_signature=hYbsGedbGa3UWOBKCdB4gv3VEOQ=, oauth_timestamp=1332862003, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:26:44,255 oauth 9293 -1223042192 token is Access Token 6F6reJyHzhNBj6naNd for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:33:12,346 authentication 9293 -1223042192 request.META["Authorization"] is OAuth x_auth_username=tom, oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=nmtje70m2a5ik51csz, oauth_signature_method=Dnvvp8+OBBM2N1uODt6j5BKr+l0=, oauth_signature=, oauth_timestamp=1332862392, x_auth_password=tom
+INFO 2012-03-27 23:33:12,714 oauth 9293 -1223042192 token is Access Token BKxcaw447xbE6Ubux3 for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-27 23:33:12,813 authentication 9293 -1223042192 in send_oauth_error, response.content is Signature method Dnvvp8+OBBM2N1uODt6j5BKr+l0= not supported try one of the following: PLAINTEXT, HMAC-SHA1
+INFO 2012-03-27 23:54:31,549 authentication 9293 -1223042192 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=6a7lfg74v59v0c4e0r, oauth_signature_method=HMAC-SHA1, oauth_signature=ju/W8NRqbOJ+13UxqLbCaEDqw6U=, oauth_timestamp=1332863671, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-27 23:54:31,944 oauth 9293 -1223042192 token is Access Token 9NLT6wNu6xu7QbbZxu for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:23:36,104 authentication 9293 -1223042192 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=imbgdzmucoubypc7cx, oauth_signature_method=HAMC-SHA1, oauth_signature=izE9AfrDiKwH2E/trPwbXs2Mzro=, oauth_timestamp=1332865415, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:23:36,479 oauth 9293 -1223042192 token is Access Token Seny3Ta5E9Zu8ZBCCa for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:23:36,590 authentication 9293 -1223042192 in send_oauth_error, response.content is Signature method HAMC-SHA1 not supported try one of the following: PLAINTEXT, HMAC-SHA1
+INFO 2012-03-28 00:24:08,308 authentication 9293 -1223042192 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=a7hd7arh2z4nk34gyn, oauth_signature_method=HAMC-SHA1, oauth_signature=K6J5mUDL2I6ClufJ/aDgvWEfWo8=, oauth_timestamp=1332865448, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:24:08,679 oauth 9293 -1223042192 token is Access Token xpVmvW6LVdeEaxAnut for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:24:08,823 authentication 9293 -1223042192 in send_oauth_error, response.content is Signature method HAMC-SHA1 not supported try one of the following: PLAINTEXT, HMAC-SHA1
+INFO 2012-03-28 00:25:07,585 authentication 9293 -1223042192 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=kl1toqlhjeqz722ed8, oauth_signature_method=HAMC-SHA1, oauth_signature=RZYMZiaObhU/CraToYrgoYFR6zc=, oauth_timestamp=1332865507, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:25:08,235 oauth 9293 -1223042192 token is Access Token FTRJ7QJDvRAx9ETePs for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:25:08,352 authentication 9293 -1223042192 in send_oauth_error, response.content is Signature method HAMC-SHA1 not supported try one of the following: PLAINTEXT, HMAC-SHA1
+INFO 2012-03-28 00:27:13,390 authentication 11323 -1222038672 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 00:27:13,413 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=7lkzht3ra7k34ig3kb, oauth_signature_method=HMAC-SHA1, oauth_signature=7d2jEqri6L/meG5n2cvP0Zl0pgY=, oauth_timestamp=1332865633, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:27:13,781 oauth 11323 -1222038672 token is Access Token vR65kG8wWuYbLfTrwL for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:27:51,525 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=jxt4sw33tt91xwym6f, oauth_signature_method=HMAC-SHA1, oauth_signature=1qE1JBk055kTN9cWH2vOXWioOjY=, oauth_timestamp=1332865671, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:27:51,914 oauth 11323 -1222038672 token is Access Token bT5JQqG4R3LcJNpWrZ for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:28:07,853 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=c5fqmk8q0ir7lvng2x, oauth_signature_method=HMAC-SHA1, oauth_signature=xi+lP+NsYXV6T0TrRewpKnT29Mo=, oauth_timestamp=1332865687, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:28:08,192 oauth 11323 -1222038672 token is Access Token cyFae7dhpY6QcRjT9W for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:29:04,053 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=0r3hm11vgux5px1lhf, oauth_signature_method=HMAC-SHA1, oauth_signature=asA4gKUohVWQj8+pkhTFCFUfrdU=, oauth_timestamp=1332865743, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:29:04,415 oauth 11323 -1222038672 token is Access Token WdHg82TmdWuvZtURHZ for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:30:08,813 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=oirzqyg1uaslwf43qb, oauth_signature_method=HMAC-SHA1, oauth_signature=o1iH3WxNy5a3C7Im1h0H/0kfaxg=, oauth_timestamp=1332865808, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:30:09,204 oauth 11323 -1222038672 token is Access Token JD8DfLAYG26HKsKY8B for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:32:00,265 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=na15f18ruxuv7hf0zz, oauth_signature_method=HMAC-SHA1, oauth_signature=5MdTGmBl2+BQpMqeoYqvrShSVAM=, oauth_timestamp=1332865920, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:32:00,638 oauth 11323 -1222038672 token is Access Token GfCWbU94sTzzeqR4Mg for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:32:55,631 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=hvardlzfce9zij2ds8, oauth_signature_method=HMAC-SHA1, oauth_signature=sPu9dFVALv3KzAU2oOIoshbyL9Q=, oauth_timestamp=1332865975, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:32:56,060 oauth 11323 -1222038672 token is Access Token bB86YHUUD3PQSQePXJ for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 00:37:27,130 authentication 11323 -1222038672 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=kdfpsbe422d32794t6, oauth_signature_method=HMAC-SHA1, oauth_signature=WwuHkr+DM/sv6yUf2ejxf4JWLAA=, oauth_timestamp=1332866246, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 00:37:27,462 oauth 11323 -1222038672 token is Access Token smbXBgWtAcxuBwAJmm for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 08:46:58,415 authentication 3627 -1223701648 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 08:46:58,514 authentication 3627 -1223701648 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=rsu1egsxrt7q8o7621, oauth_signature_method=HMAC-SHA1, oauth_signature=2hSvc8zWO9mZ05Cp3m17axCE2J0=, oauth_timestamp=1332895617, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 08:46:58,944 oauth 3627 -1223701648 token is Access Token zryRsu7NVwgGXzY8XQ for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 09:05:53,098 authentication 3854 -1223754896 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 09:05:53,123 authentication 3854 -1223754896 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=mbid7u2pe43ee5plb2, oauth_signature_method=HMAC-SHA1, oauth_signature=7uYQbH7MwJtyxQTeV5h7c2W+QQw=, oauth_timestamp=1332896752, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 09:05:53,508 oauth 3854 -1223754896 token is Access Token 4bKfaaPNREUdjwcCYF for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 09:07:16,448 authentication 4248 -1224545424 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 09:15:42,060 authentication 4248 -1224545424 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=at33c2cshikpmlvchs, oauth_signature_method=HMAC-SHA1, oauth_signature=iZkB79FkE0wrTw/X1VVirfeexjA=, oauth_timestamp=1332897341, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 09:15:42,446 oauth 4248 -1224545424 token is Access Token gMb5kQJDCDebkXz4Ab for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:32:43,826 authentication 3046 -1223349392 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 10:34:22,628 authentication 3046 -1223349392 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=ceg4yinu62w95f6xtg, oauth_signature_method=HMAC-SHA1, oauth_signature=y2hIXhAmC+TBKLWVeXEJArcSjAk=, oauth_timestamp=1332902062, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:34:22,948 oauth 3046 -1223349392 token is Access Token bJw8NBWsHYfrwELxLx for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:34:23,068 authentication 3046 -1223349392 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_token=bJw8NBWsHYfrwELxLx, oauth_signature=6VIrnO409NPu4iY3Up+2Rrlq05M=, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902063, oauth_nonce=uzmogc2cxrl5vxlgrt
+INFO 2012-03-28 10:34:23,170 authentication 3046 -1223349392 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Duzmogc2cxrl5vxlgrt%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902063%26oauth_token%3DbJw8NBWsHYfrwELxLx
+INFO 2012-03-28 10:34:45,312 authentication 3046 -1223349392 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=lzec2tir78epu20yo9, oauth_signature_method=HMAC-SHA1, oauth_signature=3C7+6HY3zhB+3vjysNHyyLAtAeo=, oauth_timestamp=1332902085, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:34:45,692 oauth 3046 -1223349392 token is Access Token GT2GC83UszLr7ewHQq for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:34:45,816 authentication 3046 -1223349392 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_token=GT2GC83UszLr7ewHQq, oauth_signature=uGfGZGHIi7pyl71+04AbYJV02kg=, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902085, oauth_nonce=7hs4uv9aupq4fz1dgd
+INFO 2012-03-28 10:34:45,926 authentication 3046 -1223349392 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D7hs4uv9aupq4fz1dgd%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902085%26oauth_token%3DGT2GC83UszLr7ewHQq
+INFO 2012-03-28 10:36:34,340 authentication 3279 -1223402640 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 10:36:34,367 authentication 3279 -1223402640 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=4xgqewrgcdniankg8i, oauth_signature_method=HMAC-SHA1, oauth_signature=E/nb7SFd/m8FYdL+QD0DJsUGpj4=, oauth_timestamp=1332902194, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:36:34,704 oauth 3279 -1223402640 token is Access Token xN29ej6UybzYxj6vMD for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:36:34,828 authentication 3279 -1223402640 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_token=xN29ej6UybzYxj6vMD, oauth_signature=7iJUW0O9V/Y+A/sGlc46K8RXLKo=, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902194, oauth_nonce=q3bev8js05z6rr8duc
+INFO 2012-03-28 10:36:34,949 authentication 3279 -1223402640 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dq3bev8js05z6rr8duc%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902194%26oauth_token%3DxN29ej6UybzYxj6vMD
+INFO 2012-03-28 10:42:31,261 authentication 3411 -1223562384 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 10:42:31,286 authentication 3411 -1223562384 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=7q2pchrzcjp0qhmhxq, oauth_signature_method=HMAC-SHA1, oauth_signature=x46IzP+CDLmlCQPnDFyczbA1lEg=, oauth_timestamp=1332902551, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:42:31,629 oauth 3411 -1223562384 token is Access Token m8Uf2HUseusqHgTruF for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:42:31,715 authentication 3411 -1223562384 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=46d06e1t7o271alg01, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902551, oauth_token=m8Uf2HUseusqHgTruF, oauth_signature=fyPT2bWdjvokjM8KK+4vXd4XlL4=
+INFO 2012-03-28 10:42:31,814 authentication 3411 -1223562384 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3D46d06e1t7o271alg01%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902551%26oauth_token%3Dm8Uf2HUseusqHgTruF
+INFO 2012-03-28 10:43:20,367 authentication 3411 -1223562384 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=4z5tuai60vq9luhkfb, oauth_signature_method=HMAC-SHA1, oauth_signature=btY1Pv+GFSra+zu3uCsK/KA/VQo=, oauth_timestamp=1332902600, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:43:20,674 oauth 3411 -1223562384 token is Access Token v3yzFwRLdCSdkMDrwM for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:43:20,866 authentication 3411 -1223562384 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=uxgfrzvjzkeedkrdkx, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902600, oauth_token=v3yzFwRLdCSdkMDrwM, oauth_signature=tN/NQia5W8xY5EEBttHPW4T2V+s=
+INFO 2012-03-28 10:43:20,985 authentication 3411 -1223562384 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Duxgfrzvjzkeedkrdkx%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902600%26oauth_token%3Dv3yzFwRLdCSdkMDrwM
+INFO 2012-03-28 10:44:58,669 authentication 3521 -1223558288 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 10:44:58,694 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=5p3bflb4dvcxbo1j3p, oauth_signature_method=HMAC-SHA1, oauth_signature=tl0X376W9uQNayWbgLBhOjlJANs=, oauth_timestamp=1332902698, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:44:59,019 oauth 3521 -1223558288 token is Access Token EQBfFumFdLmQATt3j3 for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:44:59,138 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=fvrvlht57z10k52v1o, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902699, oauth_token=EQBfFumFdLmQATt3j3, oauth_signature=2+SHijdcT+2IEf85vJ+VmgwLJ0s=
+INFO 2012-03-28 10:44:59,252 authentication 3521 -1223558288 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dfvrvlht57z10k52v1o%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902699%26oauth_token%3DEQBfFumFdLmQATt3j3
+INFO 2012-03-28 10:45:59,103 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=seln5vjqmvrvs0zg5t, oauth_signature_method=HMAC-SHA1, oauth_signature=waTbiEAIJariNgXOP3pBt5RfDDk=, oauth_timestamp=1332902758, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:45:59,453 oauth 3521 -1223558288 token is Access Token 8ChRkpLECqayLcLAua for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:45:59,567 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=hids1vrv0ye0i5t975, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332902759, oauth_token=8ChRkpLECqayLcLAua, oauth_signature=lGZjpERoe7IzzogRAQTe6qfTh4g=
+INFO 2012-03-28 10:45:59,686 authentication 3521 -1223558288 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dhids1vrv0ye0i5t975%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332902759%26oauth_token%3D8ChRkpLECqayLcLAua
+INFO 2012-03-28 10:50:13,201 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=993co9anvn2ii4vvvz, oauth_signature_method=HMAC-SHA1, oauth_signature=DQyofD3yFTAE4MsfSTtCkN77pXQ=, oauth_timestamp=1332903013, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:50:13,644 oauth 3521 -1223558288 token is Access Token xSD8drgzLyXULKYRFV for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:50:13,856 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=g7jvltp24e93tbdnxh, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332903013, oauth_token=xSD8drgzLyXULKYRFV, oauth_signature=YmBi/ugZqo0rPgWr08YhGoOTl0Y=
+INFO 2012-03-28 10:50:13,962 authentication 3521 -1223558288 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dg7jvltp24e93tbdnxh%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332903013%26oauth_token%3DxSD8drgzLyXULKYRFV
+INFO 2012-03-28 10:53:42,760 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=pipl3fazj5d6o4j0sa, oauth_signature_method=HMAC-SHA1, oauth_signature=tm2OsVXq/1CUuMZZlhkD8fG/wsM=, oauth_timestamp=1332903222, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:53:43,112 oauth 3521 -1223558288 token is Access Token Jers9cTwxmWGPrkyTg for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:53:43,219 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=tu8od4c4z8h83i2dwx, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332903223, oauth_token=Jers9cTwxmWGPrkyTg, oauth_signature=VLICXXcBXTInUu0q2gcAmqQ3yNs=
+INFO 2012-03-28 10:53:43,319 authentication 3521 -1223558288 in send_oauth_error, response.content is Invalid signature. Expected signature base string: GET&http%3A%2F%2F127.0.0.1%3A8000%2Fname%2F&oauth_consumer_key%3D2Tk7LcRnykRdTV4PCe%26oauth_nonce%3Dtu8od4c4z8h83i2dwx%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1332903223%26oauth_token%3DJers9cTwxmWGPrkyTg
+INFO 2012-03-28 10:55:25,082 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=iyz2l2s1jbexft0kwa, oauth_signature_method=HMAC-SHA1, oauth_signature=GV12jD2FQPjKZW1v7QNa0YPbAlU=, oauth_timestamp=1332903324, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:55:25,412 oauth 3521 -1223558288 token is Access Token tfR7Mv8ytFWgqXxbRM for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:55:25,504 authentication 3521 -1223558288 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=0wgwacppey7v9n35v6, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332903325, oauth_token=tfR7Mv8ytFWgqXxbRM, oauth_signature=Np6iVZY2qNMpi+MDPdWh1mNrJNk=
+INFO 2012-03-28 10:56:27,126 authentication 3965 -1223775376 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 10:56:38,232 authentication 3965 -1223775376 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=lq2obm35pew3mn7n7d, oauth_signature_method=HMAC-SHA1, oauth_signature=t0J21uUJDRsLm+VB8DLUhoPUfZg=, oauth_timestamp=1332903398, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 10:56:38,624 oauth 3965 -1223775376 token is Access Token 7aKrJTm2G9kpxJSWTt for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 10:56:38,721 authentication 3965 -1223775376 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=8qvaqo1yfmc9l6w0rx, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332903398, oauth_token=7aKrJTm2G9kpxJSWTt, oauth_signature=QhqMLYP+ubevZQQHHRap6+pDdQo=
+INFO 2012-03-28 11:05:57,247 authentication 4037 -1224082576 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 11:05:57,274 authentication 4037 -1224082576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=ezj6pq09801kri39j5, oauth_signature_method=HMAC-SHA1, oauth_signature=Ywps8gyfZZvXcn69/x/X2T4Zgh4=, oauth_timestamp=1332903957, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 11:05:57,595 oauth 4037 -1224082576 token is Access Token MVZvMeejUZytCKxzju for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 11:05:57,716 authentication 4037 -1224082576 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=85hy0xo49nnuuh2p8c, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332903957, oauth_token=MVZvMeejUZytCKxzju, oauth_signature=T1q1L4c7vVLeTjnZ3pTJPNszmnM=
+INFO 2012-03-28 11:22:22,672 authentication 5040 -1222624400 in send_oauth_error, response.content is Invalid request parameters.
+INFO 2012-03-28 11:22:22,714 authentication 5040 -1222624400 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=8xil6yr6m7gbckw9xy, oauth_signature_method=HMAC-SHA1, oauth_signature=bNsvyYSOAj3feqguXUEqNIaPbUw=, oauth_timestamp=1332904942, x_auth_password=tom, x_auth_username=tom
+INFO 2012-03-28 11:22:23,047 oauth 5040 -1222624400 token is Access Token PR2KEZWb8LkCnV5ssX for Consumer tom with key 2Tk7LcRnykRdTV4PCe
+INFO 2012-03-28 11:22:23,166 authentication 5040 -1222624400 request.META["Authorization"] is OAuth oauth_consumer_key=2Tk7LcRnykRdTV4PCe, oauth_nonce=34088sx84lr20jju0u, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1332904943, oauth_token=PR2KEZWb8LkCnV5ssX, oauth_signature=rcnWnPYxT8IE8GBkqSr22uvb2nQ=
