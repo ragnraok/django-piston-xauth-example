@@ -1,4 +1,4 @@
-#Descrption
+#Description
 this is an example for django-piston use xauth, according this project:
         [django-piston-xauth](https://github.com/kennethreitz/django-piston-xauth)
         
